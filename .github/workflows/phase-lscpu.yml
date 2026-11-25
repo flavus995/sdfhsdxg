@@ -51,8 +51,8 @@ jobs:
               'line_go': 9,  'line_flag': 26,
               'lucas_go': 9, 'lucas_flag': 26,
               'popay_go': 9, 'popay_flag': 26,
-              'dandi_go': 9, 'dandi_flag': 25,
-              'alam_go': 9,  'alam_flag': 19
+              'dandi_go': 9, 'dandi_flag': 26,
+              'alam_go': 9,  'alam_flag': 22
           }
 
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
